@@ -1,0 +1,6 @@
+streamlit
+pillow
+selenium
+webdriver-manager
+requests
+chromedriver
